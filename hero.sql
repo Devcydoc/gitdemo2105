@@ -1,1 +1,1 @@
-CREATE TABLE hero;
+CREATE DATABASE hero;
